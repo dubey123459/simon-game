@@ -1,6 +1,6 @@
 # Simon-game
 
-**Hosted link :**
+**Hosted link :** https://dubey123459.github.io/simon-game/
 
 🎮 This is a web-based implementation of the classic memory game "Simon," where players need to remember and repeat a sequence of colored buttons. The project is built using HTML, CSS, and JavaScript.
 
